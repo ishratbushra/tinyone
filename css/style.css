@@ -1,0 +1,36 @@
+/*common start*/
+body {font-family: 'PT Sans', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	background-color: #fcdb00;
+}
+
+
+/*common end*/
+/*header*/
+header {
+	background-color: #fcdb00;
+	padding: 5px 0;
+}
+
+.c_nav {}
+
+.logo {}
+
+.menu {}
+
+.menu ul li a {
+	color: #000000 !important;
+	line-height: 24px;
+	text-transform: capitalize;
+
+	padding: 0 24px !important;
+
+
+
+}
+
+.menu ul li a:hover {
+	color: #FAAF3A !important;
+}
+
